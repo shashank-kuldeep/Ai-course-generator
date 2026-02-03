@@ -2,10 +2,10 @@ import React from 'react'
 
 function Hero() {
   return (
-<section class="bg-white lg:grid lg:h-screen lg:place-content-center">
-  <div class="mx-auto w-screen max-w-7xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8 lg:py-32">
-    <div class="mx-auto max-w-prose text-center">
-      <h1 class="text-4xl font-bold text-gray-900 sm:text-5xl">
+<section className="bg-white lg:grid lg:h-screen lg:place-content-center">
+  <div className="mx-auto w-screen max-w-7xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8 lg:py-32">
+    <div className="mx-auto max-w-prose text-center">
+      <h1 className="text-4xl font-bold text-gray-900 sm:text-5xl">
         Ai-course-generator
         <strong className="text-purple-600"> increase </strong>
         your learning potential with AI
