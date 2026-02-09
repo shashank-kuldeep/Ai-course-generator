@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+📘 AI Course Generator
 
-## Getting Started
+This is an ongoing project scheduled for completion by the end of February.
 
-First, run the development server:
+The core idea behind this project is an AI-powered course generator designed to solve a common problem faced by students: finding the right learning resources in one place. Many learners struggle to discover a single course that fully matches their needs. As a result, they often jump between multiple YouTube one-shots, tutorials, and scattered materials, wasting time searching instead of learning.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project aims to eliminate that inefficiency.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The AI Course Generator intelligently gathers and organizes study material from multiple platforms and delivers a personalized, structured learning path tailored to each student’s goals. Instead of spending hours searching for the right content, students receive a curated course that is efficient, relevant, and focused.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+✨ Key Goals
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Reduce time wasted searching for tutorials
 
-## Learn More
+Provide a single, optimized learning roadmap
 
-To learn more about Next.js, take a look at the following resources:
+Personalize content based on student needs
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Combine the best resources from multiple platforms
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Improve learning efficiency and focus
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is built with the vision of making learning simpler, faster, and more targeted.
